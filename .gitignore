@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+ingest/corpus/*.json
+mlruns/
+mlflow.db
+eval/.cache/
+.DS_Store

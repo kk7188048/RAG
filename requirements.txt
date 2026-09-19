@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pinecone
+openai
+sentence-transformers
+rank-bm25
+tavily-python
+prometheus-client
+python-dotenv
+httpx
+pyyaml
+ragas
+langchain-community==0.3.31  # pinned: ragas 0.4.x imports a module langchain-community 0.4+ removed
+langchain-openai
+langchain-huggingface
+datasets
+mlflow

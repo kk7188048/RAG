@@ -1,0 +1,4 @@
+thresholds:
+  faithfulness: 0.75
+  context_recall: 0.70
+  answer_relevancy: 0.72

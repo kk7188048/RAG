@@ -1,0 +1,326 @@
+[
+  {
+    "question": "What is the outlook for Childhood Ependymoma ?",
+    "ground_truth": "Certain factors affect prognosis (chance of recovery) and treatment options. The prognosis (chance of recovery) and treatment options depend on:         - Where the tumor has formed in the central nervous system (CNS).    - Whether there are certain changes in the genes or chromosomes.    - Whether any cancer cells remain after surgery to remove the tumor.     - The type of ependymoma.     - The age of the child when the tumor is diagnosed.     - Whether the cancer has spread to other parts of the brain or spinal cord.     - Whether the tumor has just been diagnosed or has recurred (come back).         Prognosis also depends on the type and dose of radiation therapy that is given.",
+    "focus_area": "Childhood Ependymoma",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What is the outlook for Plasma Cell Neoplasms (Including Multiple Myeloma) ?",
+    "ground_truth": "Certain factors affect prognosis (chance of recovery) and treatment options. The prognosis (chance of recovery) depends on the following:         - The type of plasma cell neoplasm.    - The stage of the disease.    - Whether a certain immunoglobulin (antibody) is present.    - Whether there are certain genetic changes.    - Whether the kidney is damaged.    - Whether the cancer responds to initial treatment or recurs (comes back).        Treatment options depend on the following:         - The type of plasma cell neoplasm.    - The age and general health of the patient.    - Whether there are signs, symptoms, or health problems, such as kidney failure or infection, related to the disease.    - Whether the cancer responds to initial treatment or recurs (comes back).",
+    "focus_area": "Plasma Cell Neoplasms (Including Multiple Myeloma)",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What is the outlook for Childhood Brain Stem Glioma ?",
+    "ground_truth": "Certain factors affect prognosis (chance of recovery) and treatment options. The prognosis and treatment options depend on:         - The type of brain stem glioma.    - Where the tumor is found in the brain and if it has spread within the brain stem.    - The age of the child when diagnosed.    - Whether or not the child has a condition called neurofibromatosis type 1.    - Whether the tumor has just been diagnosed or has recurred (come back).",
+    "focus_area": "Childhood Brain Stem Glioma",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What are the symptoms of Ovarian Low Malignant Potential Tumors ?",
+    "ground_truth": "Signs and symptoms of ovarian low malignant potential tumor include pain or swelling in the abdomen.Ovarian low malignant potential tumor may not cause early signs or symptoms. If you do have signs or symptoms, they may include the following:         - Pain or swelling in the abdomen.    - Pain in the pelvis.    -  Gastrointestinal problems, such as gas, bloating, or constipation.        These signs and symptoms may be caused by other conditions. If they get worse or do not go away on their own, check with your doctor.",
+    "focus_area": "Ovarian Low Malignant Potential Tumors",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What are the treatments for Myelodysplastic/ Myeloproliferative Neoplasm, Unclassifiable ?",
+    "ground_truth": "Because myelodysplastic /myeloproliferative neoplasm, unclassifiable (MDS/MPN-UC) is a rare disease, little is known about its treatment. Treatment may include the following:         -  Supportive care treatments to manage problems caused by the disease such as infection, bleeding, and anemia.     -  Targeted therapy (imatinib mesylate).        Check the list of NCI-supported cancer clinical trials that are now accepting patients with myelodysplastic/myeloproliferative neoplasm, unclassifiable. For more specific results, refine the search by using other search features, such as the location of the trial, the type of treatment, or the name of the drug. Talk with your doctor about clinical trials that may be right for you. General information about clinical trials is available from the NCI website.",
+    "focus_area": "Myelodysplastic/ Myeloproliferative Neoplasm, Unclassifiable",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What are the symptoms of Salivary Gland Cancer ?",
+    "ground_truth": "Signs of salivary gland cancer include a lump or trouble swallowing. Salivary gland cancer may not cause any symptoms. It may be found during a regular dental check-up or physical exam. Signs and symptoms may be caused by salivary gland cancer or by other conditions. Check with your doctor if you have any of the following:         - A lump (usually painless) in the area of the ear, cheek, jaw, lip, or inside the mouth.    -  Fluid draining from the ear.    - Trouble swallowing or opening the mouth widely.    - Numbness or weakness in the face.    - Pain in the face that does not go away.",
+    "focus_area": "Salivary Gland Cancer",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What are the symptoms of Cat scratch disease ?",
+    "ground_truth": "What are the symptoms of cat scratch disease? Most people with cat scratch disease have been bitten or scratched by a cat and developed a mild infection at the point of injury. Lymph nodes, especially those around the head, neck, and upper limbs, become swollen. Additionally, a person with cat scratch disease may experience fever, headache, fatigue, achiness and discomfort (malaise), sore throat, enlarged spleen, and/or loss of appetite.",
+    "focus_area": "Cat scratch disease",
+    "source": "2_GARD_QA"
+  },
+  {
+    "question": "How to diagnose Olivopontocerebellar atrophy ?",
+    "ground_truth": "How is olivopontocerebellar atrophy diagnosed? A diagnosis of olivopontocerebellar atrophy (OPCA) may be based on a thorough medical exam; the presence of signs and symptoms; imaging studies; various laboratory tests; and an evaluation of the family history. MRI of the brain may show characteristics of OPCA, such as specific changes in the size of affected parts of the brain. This is more likely as the disease progresses; it is possible to have OPCA and have a normal brain MRI (especially within the first year of symptom onset). Hereditary OPCA may be suspected based on having a family history, and may be diagnosed by genetic testing (when available) for the condition suspected or known to be present in the family. Sporadic OPCA may be diagnosed if hereditary forms of OPCA, and other conditions associated with OPCA, have been ruled out.",
+    "focus_area": "Olivopontocerebellar atrophy",
+    "source": "2_GARD_QA"
+  },
+  {
+    "question": "What are the treatments for Loin pain hematuria syndrome ?",
+    "ground_truth": "How might loin pain hematuria syndrome be treated? Treatment of loin pain hematuria syndrome (LPHS) typically consists of pain management. Narcotics or oral opioids may be prescribed to help control pain. Patients with severe pain may need high-dose opioids daily and may occasionally require hospitalization for intravenous pain relievers and control of nausea. Limited evidence suggests that drugs that inhibit angiotensin may reduce the frequency and severity of episodes of loin pain and severe hematuria. People with debilitating pain who do not respond to other therapies may be offered surgery (i.e. a nerve block, nephrectomy, kidney auto-transplantation); however, surgical treatment of LPHS is controversial as studies suggest that it has limited value for treating recurrent pain.",
+    "focus_area": "Loin pain hematuria syndrome",
+    "source": "2_GARD_QA"
+  },
+  {
+    "question": "What is (are) Crystal arthropathies ?",
+    "ground_truth": "Crystal arthropathies are a diverse group of bone diseases associated with the deposition of minerals within joints and the soft tissues around the joints. The group includes gout, basic calcium phosphate and calcium pyrophosphate dihydrate deposition diseases, and, in very rare cases, calcium oxalate crystal arthropathy which is a rare cause of arthritis characterized by deposition of calcium oxalate crystals within synovial fluid and typically occurs in patients with underlying primary or secondary hyperoxaluria. These crystals are responsible for different rheumatic syndromes, including acute or chronic synovial inflammation and cartilage degeneration. Treatment depends on the specific condition.",
+    "focus_area": "Crystal arthropathies",
+    "source": "2_GARD_QA"
+  },
+  {
+    "question": "What is (are) Aicardi-Goutieres syndrome type 3 ?",
+    "ground_truth": "Aicardi-Goutieres syndrome is an inherited condition that mainly affects the brain, immune system, and skin. It is characterized by early-onset severe brain dysfunction (encephalopathy) that usually results in severe intellectual and physical disability. Additional symptoms may include epilepsy, painful, itchy skin lesion (chilblains), vision problems, and joint stiffness. Symptoms usually progress over several months before the disease course stabilizes. There are six different types of Aicardi-Goutieres syndrome, which are distinguished by the gene that causes the condition: TREX1, RNASEH2A, RNASEH2B, RNASEH2C, SAMHD1, and ADAR genes. Most cases are inherited in an autosomal recessive pattern, although rare autosomal dominant cases have been reported. Treatment is symptomatic and supportive.",
+    "focus_area": "Aicardi-Goutieres syndrome type 3",
+    "source": "2_GARD_QA"
+  },
+  {
+    "question": "What is (are) Arts syndrome ?",
+    "ground_truth": "Arts syndrome is characterized by sensorineural hearing loss and serious neurological and immune system problems in males. Females can also be affected by this condition, but they typically have much milder symptoms. Arts syndrome is caused by mutations in the PRPS1 gene which is located on the X chromosome. It is inherited in an X-linked recessive manner.",
+    "focus_area": "Arts syndrome",
+    "source": "2_GARD_QA"
+  },
+  {
+    "question": "What are the treatments for Ghosal hematodiaphyseal dysplasia ?",
+    "ground_truth": "These resources address the diagnosis or management of Ghosal hematodiaphyseal dysplasia:  - Genetic Testing Registry: Ghosal syndrome  - National Heart, Lung, and Blood Institute: How is Anemia Diagnosed?  - National Heart, Lung, and Blood Institute: How is Anemia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+    "focus_area": "Ghosal hematodiaphyseal dysplasia",
+    "source": "3_GHR_QA"
+  },
+  {
+    "question": "How many people are affected by familial osteochondritis dissecans ?",
+    "ground_truth": "Familial osteochondritis dissecans is a rare condition, although the prevalence is unknown. Sporadic osteochondritis dissecans is more common; it is estimated to occur in the knee in 15 to 29 per 100,000 individuals.",
+    "focus_area": "familial osteochondritis dissecans",
+    "source": "3_GHR_QA"
+  },
+  {
+    "question": "What are the genetic changes related to Lynch syndrome ?",
+    "ground_truth": "Variations in the MLH1, MSH2, MSH6, PMS2, or EPCAM gene increase the risk of developing Lynch syndrome.  The MLH1, MSH2, MSH6, and PMS2 genes are involved in the repair of mistakes that occur when DNA is copied in preparation for cell division (a process called DNA replication). Mutations in any of these genes prevent the proper repair of DNA replication mistakes. As the abnormal cells continue to divide, the accumulated mistakes can lead to uncontrolled cell growth and possibly cancer.  Mutations in the EPCAM gene also lead to impaired DNA repair, although the gene is not itself involved in this process. The EPCAM gene lies next to the MSH2 gene on chromosome 2; certain EPCAM gene mutations cause the MSH2 gene to be turned off (inactivated), interrupting DNA repair and leading to accumulated DNA mistakes.  Although mutations in these genes predispose individuals to cancer, not all people who carry these mutations develop cancerous tumors.",
+    "focus_area": "Lynch syndrome",
+    "source": "3_GHR_QA"
+  },
+  {
+    "question": "What are the treatments for progressive osseous heteroplasia ?",
+    "ground_truth": "These resources address the diagnosis or management of progressive osseous heteroplasia:  - Genetic Testing Registry: Progressive osseous heteroplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+    "focus_area": "progressive osseous heteroplasia",
+    "source": "3_GHR_QA"
+  },
+  {
+    "question": "What is (are) cyclic neutropenia ?",
+    "ground_truth": "Cyclic neutropenia is a disorder that causes frequent infections and other health problems in affected individuals. People with this condition have recurrent episodes of neutropenia during which there is a shortage (deficiency) of neutrophils. Neutrophils are a type of white blood cell that plays a role in inflammation and in fighting infection. The episodes of neutropenia are apparent at birth or soon afterward. For most affected individuals, neutropenia recurs every 21 days and lasts about 3 to 5 days.  Neutropenia makes it more difficult for the body to fight off pathogens such as bacteria and viruses, so people with cyclic neutropenia typically develop recurrent infections of the sinuses, respiratory tract, and skin. Additionally, people with this condition often develop open sores (ulcers) in the mouth and colon, inflammation of the throat (pharyngitis) and gums (gingivitis), recurrent fever, or abdominal pain. People with cyclic neutropenia have these health problems only during episodes of neutropenia. At times when their neutrophil levels are normal, they are not at an increased risk of infection and inflammation.",
+    "focus_area": "cyclic neutropenia",
+    "source": "3_GHR_QA"
+  },
+  {
+    "question": "Is REN-related kidney disease inherited ?",
+    "ground_truth": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.",
+    "focus_area": "REN-related kidney disease",
+    "source": "3_GHR_QA"
+  },
+  {
+    "question": "What is (are) Heart Attack ?",
+    "ground_truth": "Each year over a million people in the U.S. have a heart attack. About half of them die. Many people have permanent heart damage or die because they don't get help immediately. It's important to know the symptoms of a heart attack and call 9-1-1 if someone is having them. Those symptoms include       - Chest discomfort - pressure, squeezing, or pain     - Shortness of breath     - Discomfort in the upper body - arms, shoulder, neck, back     - Nausea, vomiting, dizziness, lightheadedness, sweating        These symptoms can sometimes be different in women.    What exactly is a heart attack? Most heart attacks happen when a clot in the coronary artery blocks the supply of blood and oxygen to the heart. Often this leads to an irregular heartbeat - called an arrhythmia - that causes a severe decrease in the pumping function of the heart. A blockage that is not treated within a few hours causes the affected heart muscle to die.    NIH: National Heart, Lung, and Blood Institute",
+    "focus_area": "Heart Attack",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Giant Cell Arteritis ?",
+    "ground_truth": "Giant cell arteritis is a disorder that causes inflammation of your arteries, usually in the scalp, neck, and arms. It narrows the arteries, which keeps blood from flowing well. Giant cell arteritis often occurs with another disorder called polymyalgia rheumatica. Both are more common in women than in men. They almost always affect people over the age of 50.    Early symptoms of giant cell arteritis resemble the flu: fatigue, loss of appetite, and fever. Other symptoms include       - Headaches    - Pain and tenderness over the temples    - Double vision or visual loss, dizziness    - Problems with coordination and balance    - Pain in your jaw and tongue       Your doctor will make the diagnosis based on your medical history, symptoms, and a physical exam. There is no single test to diagnose giant cell arteritis, but you may have tests that measure inflammation.    Treatment is usually with corticosteroids. Early treatment is important; otherwise there is a risk of permanent vision loss or stroke. However, when properly treated, giant cell arteritis rarely comes back.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+    "focus_area": "Giant Cell Arteritis",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Back Pain ?",
+    "ground_truth": "If you've ever groaned, \"Oh, my aching back!\", you are not alone. Back pain is one of the most common medical problems, affecting 8 out of 10 people at some point during their lives. Back pain can range from a dull, constant ache to a sudden, sharp pain. Acute back pain comes on suddenly and usually lasts from a few days to a few weeks. Back pain is called chronic if it lasts for more than three months.    Most back pain goes away on its own, though it may take awhile. Taking over-the-counter pain relievers and resting can help. However, staying in bed for more than 1 or 2 days can make it worse.     If your back pain is severe or doesn't improve after three days, you should call your health care provider. You should also get medical attention if you have back pain following an injury.    Treatment for back pain depends on what kind of pain you have, and what is causing it. It may include hot or cold packs, exercise, medicines, injections, complementary treatments, and sometimes surgery.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+    "focus_area": "Back Pain",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Peritoneal Disorders ?",
+    "ground_truth": "Your peritoneum is the tissue that lines your abdominal wall and covers most of the organs in your abdomen. A liquid, peritoneal fluid, lubricates the surface of this tissue.    Disorders of the peritoneum are not common. They include       - Peritonitis - an inflammation of the peritoneum    - Cancer    - Complications from peritoneal dialysis       Your doctor may use imaging tests or lab tests to analyze the peritoneal fluid to diagnose the problem. Treatment of peritoneal disorders depends on the cause.",
+    "focus_area": "Peritoneal Disorders",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Friedreich's Ataxia ?",
+    "ground_truth": "Friedreich's ataxia is an inherited disease that damages your nervous system. The damage affects your spinal cord and the nerves that control muscle movement in your arms and legs. Symptoms usually begin between the ages of 5 and 15. The main symptom is ataxia, which means trouble coordinating movements. Specific symptoms include       - Difficulty walking    -  Muscle weakness    -  Speech problems    -  Involuntary eye movements    -  Scoliosis (curving of the spine to one side)    -  Heart palpitations, from the heart disease which can happen along with Friedreich's ataxia       People with Friedreich's ataxia usually need a wheelchair 15 to 20 years after symptoms first appear. In severe cases, people become incapacitated. There is no cure. You can treat symptoms with medicines, braces, surgery, and physical therapy.    NIH: National Institute of Neurological Disorders and Stroke",
+    "focus_area": "Friedreich's Ataxia",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Anemia ?",
+    "ground_truth": "If you have anemia, your blood does not carry enough oxygen to the rest of your body. The most common cause of anemia is not having enough iron. Your body needs iron to make hemoglobin. Hemoglobin is an iron-rich protein that gives the red color to blood. It carries oxygen from the lungs to the rest of the body.    Anemia has three main causes: blood loss, lack of red blood cell production, and high rates of red blood cell destruction.    Conditions that may lead to anemia include       - Heavy periods    - Pregnancy    - Ulcers    - Colon polyps or colon cancer    - Inherited disorders    - A diet that does not have enough iron, folic acid or vitamin B12    - Blood disorders such as sickle cell anemia and thalassemia, or cancer    - Aplastic anemia, a condition that can be inherited or acquired    - G6PD deficiency, a metabolic disorder       Anemia can make you feel tired, cold, dizzy, and irritable. You may be short of breath or have a headache.    Your doctor will diagnose anemia with a physical exam and blood tests. Treatment depends on the kind of anemia you have.    NIH: National Heart, Lung, and Blood Institute",
+    "focus_area": "Anemia",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How many people are affected by Alagille Syndrome ?",
+    "ground_truth": "Alagille syndrome occurs in about one of every 30,000 live births.3 The disorder affects both sexes equally and shows no geographical, racial, or ethnic preferences.\n                \nJAG1 and NOTCH2 gene mutations are inherited in an autosomal dominant way, which means a child can get Alagille syndrome by inheriting either of the gene mutations from only one parent. Each child of a parent with an autosomal dominant mutation has a 50 percent chance of inheriting the mutated gene.\n                \nThe following chart shows the chance of inheriting an autosomal dominant gene mutation:\n                \nThe gene mutations that cause Alagille syndrome may cause mild or subtle symptoms. Some people may not know they are affected, while others with the gene mutation may develop more serious characteristics of Alagille syndrome. A person with a gene mutation, whether showing serious symptoms or not, has Alagille syndrome and can pass the gene mutation to a child.\n                \nRead more about how genetic conditions are inherited at the NLM's Genetics Home Reference website at www.ghr.nlm.nih.gov.",
+    "focus_area": "Alagille Syndrome",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What causes What I need to know about Crohn's Disease ?",
+    "ground_truth": "Researchers are studying the possible causes of Crohns disease. Your bodys natural defense system, called the immune system, protects you from infection by fighting against bacteria, viruses, and other things that can make you sick. Researchers believe that with Crohns disease, the immune system attacks harmless bacteria and viruses. During the attack, white blood cells gather in the intestinal lining. The white blood cells cause chronic inflammation, which leads to ulcers, or sores, and damage to the intestines.\n                \nOther factors associated with Crohns disease are\n                \n- genesthe traits passed down from your parents  - unknown triggers caused by the environment",
+    "focus_area": "What I need to know about Crohn's Disease",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What to do for What I need to know about Gas ?",
+    "ground_truth": "Your eating habits and diet affect the amount of gas you have. For example, eating and drinking too fast can cause you to swallow more air. And you may have more gas after you eat certain carbohydrates.\n                \nTrack what you eat and your gas symptoms to find out what foods cause you to have more gas. Avoid or eat less of the foods that cause your gas symptoms.",
+    "focus_area": "What I need to know about Gas",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "How to diagnose Proteinuria ?",
+    "ground_truth": "Tests that measure the amount of creatinine in the blood will show whether a persons kidneys are removing wastes efficiently. Having too much creatinine in the blood is a sign that a person has kidney damage. The doctor can use the creatinine measurement to estimate how efficiently the kidneys are filtering the blood. This calculation is called the estimated glomerular filtration rate, or eGFR. CKD is present when the eGFR is less than 60 milliliters per minute (mL/min).",
+    "focus_area": "Proteinuria",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the complications of IgA Nephropathy ?",
+    "ground_truth": "Complications of IgA nephropathy include\n                \n- high blood pressure  - acute kidney failuresudden and temporary loss of kidney function  - chronic kidney failurereduced kidney function over a period of time  - nephrotic syndromea collection of symptoms that indicate kidney damage; symptoms include albuminuria, lack of protein in the blood, and high blood cholesterol levels  - heart or cardiovascular problems  - Henoch-Schnlein purpura\n                \nMore information is provided in the NIDDK health topics, Kidney Disease and Kidney Failure.",
+    "focus_area": "IgA Nephropathy",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the symptoms of Dumping Syndrome ?",
+    "ground_truth": "The symptoms of early and late dumping syndrome are different and vary from person to person. Early dumping syndrome symptoms may include\n                \n- nausea  - vomiting  - abdominal pain and cramping  - diarrhea  - feeling uncomfortably full or bloated after a meal  - sweating  - weakness  - dizziness  - flushing, or blushing of the face or skin  - rapid or irregular heartbeat\n                \n- hypoglycemia  - sweating  - weakness  - rapid or irregular heartbeat  - flushing  - dizziness\n                \nAbout 75 percent of people with dumping syndrome report symptoms of early dumping syndrome and about 25 percent report symptoms of late dumping syndrome. Some people have symptoms of both types of dumping syndrome.1",
+    "focus_area": "Dumping Syndrome",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the treatments for Hydranencephaly ?",
+    "ground_truth": "There is no definitive treatment for hydranencephaly. Treatment is symptomatic and supportive. Hydrocephalus may be treated with a shunt (a surgically implanted tube that diverts fluid from one pathway to another).",
+    "focus_area": "Hydranencephaly",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Lennox-Gastaut Syndrome ?",
+    "ground_truth": "Lennox-Gastaut syndrome is a severe form of epilepsy. Seizures usually begin before 4 years of age. Seizure types, which vary among patients, include tonic (stiffening of the body, upward deviation of the eyes, dilation of the pupils, and altered respiratory patterns), atonic (brief loss of muscle tone and consciousness, causing abrupt falls), atypical absence (staring spells), and myoclonic (sudden muscle jerks). There may be periods of frequent seizures mixed with brief, relatively seizure-free periods. Most children with Lennox-Gastaut syndrome experience some degree of impaired intellectual functioning or information processing, along with developmental delays, and behavioral disturbances. Lennox-Gastaut syndrome can be caused by brain malformations, perinatal asphyxia, severe head injury, central nervous system infection and inherited degenerative or metabolic conditions. In 30-35 percent of cases, no cause can be found.",
+    "focus_area": "Lennox-Gastaut Syndrome",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is the outlook for Neurotoxicity ?",
+    "ground_truth": "The prognosis depends upon the length and degree of exposure and the severity of neurological injury. In some instances, exposure to neurotoxicants can be fatal. In others, patients may survive but not fully recover. In other situations, many individuals recover completely after treatment.",
+    "focus_area": "Neurotoxicity",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Transient Ischemic Attack ?",
+    "ground_truth": "NINDS is the leading supporter of research on stroke and TIA in the U.S. and sponsors studies ranging from clinical trials to investigations of basic biological mechanisms as well as studies with animals.",
+    "focus_area": "Transient Ischemic Attack",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Hereditary Neuropathies ?",
+    "ground_truth": "The NINDS supports research on neuromuscular disorders, such as hereditary neuropathies, aimed at learning more about these disorders and finding ways to prevent and treat them.",
+    "focus_area": "Hereditary Neuropathies",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is the outlook for Landau-Kleffner Syndrome ?",
+    "ground_truth": "The prognosis for children with LKS varies. Some affected children may have a permanent severe language disorder, while others may regain much of their language abilities (although it may take months or years). In some cases, remission and relapse may occur. The prognosis is improved when the onset of the disorder is after age 6 and when speech therapy is started early. Seizures generally disappear by adulthood.",
+    "focus_area": "Landau-Kleffner Syndrome",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Osteoporosis ?",
+    "ground_truth": "Millions of Americans are able to lead healthy, productive lives while living with osteoporosis. If you have been feeling symptoms of depressionsuch as loss of appetite, hopelessness, feeling useless and helpless, or having thoughts of suicidefor more than 2 weeks, consult a doctor, social worker, or therapist. Medications and counseling are available to fight depression.  Learn more about the emotional impact of osteoporosis.  Learn more about older adults and depression. (Watch the video to learn more about coping with osteoporosis. To enlarge the video, click the brackets in the lower right-hand corner. To reduce the video, press the Escape (Esc) button on your keyboard.)",
+    "focus_area": "Osteoporosis",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the symptoms of Prostate Cancer ?",
+    "ground_truth": "Yes. Any of the symptoms caused by prostate cancer may also be due to enlargement of the prostate, which is not cancer. If you have any of the symptoms mentioned in question #10, see your doctor or a urologist to find out if you need treatment. A urologist is a doctor who specializes in treating diseases of the genitourinary system.",
+    "focus_area": "Prostate Cancer",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the symptoms of Shingles ?",
+    "ground_truth": "A week or two after the blisters erupt, the oozing sores will begin to crust over. The sores are usually gone after another two weeks. The pain usually decreases over the next few weeks, but some patients may have pain for months -- sometimes, for years.",
+    "focus_area": "Shingles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Who is at risk for Colorectal Cancer? ?",
+    "ground_truth": "Researchers are working hard to understand and identify the genes involved in colorectal cancer. Hereditary nonpolyposis colorectal cancer, or HNPCC, is one condition that causes people to develop colorectal cancer at a young age. The discovery of four genes involved with this disease has provided crucial clues about the role of DNA repair in colorectal and other cancers.",
+    "focus_area": "Colorectal Cancer",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What causes Dry Eye ?",
+    "ground_truth": "If your eyes dont make enough tears it can cause dry eye. Anything that changes the components of tears can cause dry eye. Many factors can lead to dry eye, including aging, medications, problems with eyelid function, disease, some types of eye surgery, environmental factors, and allergies.",
+    "focus_area": "Dry Eye",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) COPD ?",
+    "ground_truth": "More information on COPD is available at:  What is COPD? and at the  Learn More, Breathe Better Campaign  For information on quitting smoking, visit http://www.surgeongeneral.gov/tobacco/ or  Smokefree.gov. For information on the H1N1 flu and COPD, go to  The Centers for Disease Control and Prevention.",
+    "focus_area": "COPD",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Who is at risk for Bronchopulmonary Dysplasia? ?",
+    "ground_truth": "The more premature an infant is and the lower his or her birth weight, the greater the risk of bronchopulmonary dysplasia (BPD).\n                \nMost infants who develop BPD are born more than 10 weeks before their due dates, weigh less than 2 pounds (about 1,000 grams) at birth, and have breathing problems. Infections that occur before or shortly after birth also can contribute to BPD.\n                \nThe number of babies who have BPD is higher now than in the past. This is because of advances in care that help more premature infants survive.\n                \nMany babies who develop BPD are born with serious respiratory distress syndrome (RDS). However, some babies who have mild RDS or don't have RDS also develop BPD. These babies often have very low birth weights and one or more other conditions, such as patent ductus arteriosus (PDA) and sepsis.\n                \nPDA is a heart problem that occurs soon after birth in some babies. Sepsis is a serious bacterial infection in the bloodstream.",
+    "focus_area": "Bronchopulmonary Dysplasia",
+    "source": "8_NHLBI_QA_XML"
+  },
+  {
+    "question": "What causes Coronary Heart Disease ?",
+    "ground_truth": "Research suggests that coronary heart disease (CHD) starts when certain factors damage the inner layers of the coronary arteries. These factors include:\n                \nSmoking\n                \nHigh levels of certain fats and cholesterol in the blood\n                \nHigh blood pressure\n                \nHigh levels of sugar in the blood due to insulin resistance or diabetes\n                \nBlood vessel inflammation\n                \nPlaque might begin to build up where the arteries are damaged. The buildup of plaque in the coronary arteries may start in childhood.\n                \nOver time, plaque can harden or rupture (break open). Hardened plaque narrows the coronary arteries and reduces the flow of oxygen-rich blood to the heart. This can cause angina (chest pain or discomfort).\n                \nIf the plaque ruptures, blood cell fragments called platelets (PLATE-lets) stick to the site of the injury. They may clump together to form blood clots.\n                \nBlood clots can further narrow the coronary arteries and worsen angina. If a clot becomes large enough, it can mostly or completely block a coronary artery and cause a heart attack.",
+    "focus_area": "Coronary Heart Disease",
+    "source": "8_NHLBI_QA_XML"
+  },
+  {
+    "question": "What are the symptoms of Heart Block ?",
+    "ground_truth": "Signs and symptoms depend on the type of heart block you have. First-degree heart block may not cause any symptoms.\n                \nSigns and symptoms of second- and third-degree heart block include:\n                \nFainting\n                \nDizziness or light-headedness\n                \nFatigue (tiredness)\n                \nShortness of breath\n                \nChest pain\n                \nThese symptoms may suggest other health problems as well. If these symptoms are new or severe, call 911 or have someone drive you to the hospital emergency room. If you have milder symptoms, talk with your doctor right away to find out whether you need prompt treatment.",
+    "focus_area": "Heart Block",
+    "source": "8_NHLBI_QA_XML"
+  },
+  {
+    "question": "How to prevent Asthma ?",
+    "ground_truth": "You cant prevent asthma. However, you can take steps to control the disease and prevent its symptoms. For example:\n                \nLearn about your asthma and ways to control it.\n                \nFollow your written asthma action plan. (For a sample plan, go to the National Heart, Lung, and Blood Institute's \"Asthma Action Plan.\")\n                \nUse medicines as your doctor prescribes.\n                \nIdentify and try to avoid things that make your asthma worse (asthma triggers). However, one trigger you should not avoid is physical activity. Physical activity is an important part of a healthy lifestyle. Talk with your doctor about medicines that can help you stay active.\n                \nKeep track of your asthma symptoms and level of control.\n                \nGet regular checkups for your asthma.\n                \nFor more details about how to prevent asthma symptoms and attacks, go to \"How Is Asthma Treated and Controlled?\"",
+    "focus_area": "Asthma",
+    "source": "8_NHLBI_QA_XML"
+  },
+  {
+    "question": "Who is at risk for Aplastic Anemia? ?",
+    "ground_truth": "Aplastic anemia is a rare but serious blood disorder. People of all ages can develop aplastic anemia. However, it's most common in adolescents, young adults, and the elderly. Men and women are equally likely to have it.\n                \nThe disorder is two to three times more common in Asian countries.\n                \nYour risk of aplastic anemia is higher if you:\n                \nHave been exposed to toxins\n                \nHave taken certain medicines or had radiation or chemotherapy (treatments for cancer)\n                \nHave certain infectious diseases, autoimmune disorders, or inherited conditions\n                \nFor more information, go to \"What Causes Aplastic Anemia?\"",
+    "focus_area": "Aplastic Anemia",
+    "source": "8_NHLBI_QA_XML"
+  },
+  {
+    "question": "Who is at risk for Hemochromatosis? ?",
+    "ground_truth": "Hemochromatosis is one of the most common genetic diseases in the United States. It's most common in Caucasians of Northern European descent. The disease is less common in African Americans, Hispanics, Asians, and American Indians.\n                \nPrimary hemochromatosis is more common in men than in women. Also, older people are more likely to develop the disease than younger people. In fact, signs and symptoms usually don't occur in men until they're 40 to 60 years old.\n                \nIn women, signs and symptoms usually don't occur until after the age of 50 (after menopause). Young children rarely develop hemochromatosis.\n                \nInheriting two faulty HFE genes (one from each parent) is the major risk factor for hemochromatosis. However, many people who have two copies of the faulty gene don't develop signs or symptoms of the disease.\n                \nAlcoholism is another risk factor for hemochromatosis. A family history of certain diseases and conditions also puts you at higher risk for hemochromatosis. Examples of such diseases and conditions include heart attack, liver disease, diabetes, arthritis, and erectile dysfunction (impotence).",
+    "focus_area": "Hemochromatosis",
+    "source": "8_NHLBI_QA_XML"
+  },
+  {
+    "question": "What are the symptoms of Acinetobacter in Healthcare Settings ?",
+    "ground_truth": "Acinetobacter causes a variety of diseases, ranging from pneumonia to serious blood or wound infections, and the symptoms vary depending on the disease. Acinetobacter may also \u201ccolonize\u201d or live in a patient without causing infection or symptoms, especially in tracheostomy sites or open wounds.",
+    "focus_area": "Acinetobacter in Healthcare Settings",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "How to prevent Parasites - Hookworm ?",
+    "ground_truth": "The best way to avoid hookworm infection is not to walk barefoot in areas where hookworm is common and where there may be human fecal contamination of the soil. Also, avoid other skin contact with such soil and avoid ingesting it.\n    \nInfection can also be prevented by not defecating outdoors and by effective sewage disposal systems.",
+    "focus_area": "Parasites - Hookworm",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "Who is at risk for Parasites - Hookworm? ?",
+    "ground_truth": "Hookworm is a soil-transmitted helminth (STH) and is one of the most common roundworm of humans. Infection is caused by the nematode parasites Necator americanus and Ancylostoma duodenale. Hookworm infections often occur in areas where human feces are used as fertilizer or where defecation onto soil happens.\n    Geographic Distribution\n    \nThe geographic distributions of the hookworm species that are intestinal parasites in human, Ancylostoma duodenale and Necator americanus, are worldwide in areas with warm, moist climates and are widely overlapping. Necator americanus was widespread in the Southeastern United States until the early 20th century.",
+    "focus_area": "Parasites - Hookworm",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "What are the treatments for Parasites - Trichinellosis (also known as Trichinosis) ?",
+    "ground_truth": "Safe and effective prescription drugs are available to treat both Trichinella infection and the symptoms that occur as a result of infection. Treatment should begin as soon as possible; a doctor will make the decision to treat based upon symptoms, exposure to raw or undercooked meat, and laboratory test results.\n    \nMore on: Resources For Health Professionals: Treatment",
+    "focus_area": "Parasites - Trichinellosis (also known as Trichinosis)",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "what can i do to prevent poisoning by marine toxins?",
+    "ground_truth": "General guidelines for safe seafood consumption:",
+    "focus_area": "Marine Toxins",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "What is (are) Yellow Fever Vaccination ?",
+    "ground_truth": "If you continue to live or travel in yellow fever-endemic areas, you should receive a booster dose of yellow fever vaccine after 10 years.\n                \nAfter receiving the vaccine, you should receive an International Certificate of Vaccination (yellow card) that has been validated by the vaccination center. This Certificate becomes valid 10 days after vaccination and lasts for 10 years. You will need this card as proof of vaccination to enter certain countries.",
+    "focus_area": "Yellow Fever Vaccination",
+    "source": "9_CDC_QA"
+  }
+]
