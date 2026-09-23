@@ -181,20 +181,30 @@ def main():
     # exponential backoff (up to max_wait=60s each) let a handful of jobs
     # hang for OVER 7 HOURS in a prior run. 90s timeout x 2 retries bounds
     # the worst case per job to a few minutes instead.
-    result = evaluate(
-        dataset,
-        metrics=[faithfulness, context_recall, answer_relevancy],
-        llm=judge_llm,
-        embeddings=judge_embeddings,
-        run_config=RunConfig(max_workers=5, timeout=200, max_retries=2, max_wait=15),
-    )
-    # result[metric] is a per-sample list; average with nanmean since ragas
-    # can emit NaN for individual samples (e.g. empty context).
-    scores = {
-        "faithfulness": float(np.nanmean(result["faithfulness"])),
-        "context_recall": float(np.nanmean(result["context_recall"])),
-        "answer_relevancy": float(np.nanmean(result["answer_relevancy"])),
-    }
+    # The free-tier judge model occasionally fails EVERY call in a run (e.g.
+    # a full 24/24 timeout observed in testing) -- not a real quality signal,
+    # just judge flakiness. A single all-NaN attempt would make a CI gate
+    # block PRs for no real reason, so retry the whole scoring pass once
+    # before giving up.
+    scores = None
+    for attempt in range(2):
+        result = evaluate(
+            dataset,
+            metrics=[faithfulness, context_recall, answer_relevancy],
+            llm=judge_llm,
+            embeddings=judge_embeddings,
+            run_config=RunConfig(max_workers=5, timeout=200, max_retries=2, max_wait=15),
+        )
+        # result[metric] is a per-sample list; average with nanmean since
+        # ragas can emit NaN for individual samples (e.g. empty context).
+        scores = {
+            "faithfulness": float(np.nanmean(result["faithfulness"])),
+            "context_recall": float(np.nanmean(result["context_recall"])),
+            "answer_relevancy": float(np.nanmean(result["answer_relevancy"])),
+        }
+        if not all(np.isnan(v) for v in scores.values()):
+            break
+        print(f"  attempt {attempt + 1}: every judge call failed (all NaN) -- retrying scoring pass ...")
     p95_latency_ms = float(np.percentile(latencies, 95)) if latencies else 0.0
     p50_latency_ms = float(np.percentile(latencies, 50)) if latencies else 0.0
 
