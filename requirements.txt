@@ -12,7 +12,7 @@ python-dotenv
 httpx
 pyyaml
 ragas
-langchain-community==0.3.31  # pinned: ragas 0.4.x imports a module langchain-community 0.4+ removed
+langchain-community @ git+https://github.com/langchain-ai/langchain.git@e188d4ecb085d4561a0be3c583d26aa9c2c3283f#subdirectory=libs/community  # CVE-2025-2828 (SSRF in RequestsToolkit, GHSA-h5gc-rm8j-5gpr/PYSEC-2025-70): pinned to fix commit e188d4ec per remediation note (0.0.27 line); CVE-2025-6984 (XXE, GHSA-pc6w-59fv-rh23/PYSEC-2026-1515) fixed in PyPI 0.3.27; was ==0.3.31 because ragas 0.4.x imports a module langchain-community 0.4+ removed -- verify ragas/langchain-core compatibility in CI before merge
 langchain-openai
 langchain-huggingface
 datasets
