@@ -2,7 +2,7 @@ fastapi
 uvicorn[standard]
 pydantic
 pydantic-settings
-pinecone
+pinecone>=10.0,<11  # v10: upsert/query shapes unchanged for this repo (the gRPC upsert_from_dataframe partial-failure change is not used here)
 openai
 sentence-transformers
 rank-bm25
